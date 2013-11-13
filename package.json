@@ -1,0 +1,19 @@
+{
+  "name": "gl-catch-context",
+  "description": "Retrieve any newly created WebGL contexts as they're being created. Useful for instrumentation.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/gl-catch-context"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/gl-catch-context/issues"
+  }
+}
