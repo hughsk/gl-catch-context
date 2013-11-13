@@ -15,5 +15,11 @@
   },
   "bugs": {
     "url": "https://github.com/hughsk/gl-catch-context/issues"
-  }
+  },
+  "keywords": [
+    "browserify",
+    "webgl",
+    "context",
+    "instrumentation"
+  ]
 }
